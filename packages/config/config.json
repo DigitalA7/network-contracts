@@ -261,14 +261,11 @@
     "id": 137,
     "name": "Polygon",
     "nativeCurrency": {
-      "symbol": "MATIC",
-      "name": "MATIC",
+      "symbol": "POL",
+      "name": "POL",
       "decimals": 18
     },
     "rpcEndpoints": [
-      {
-        "url": "https://polygon-rpc.com"
-      },
       {
         "url": "https://polygon.drpc.org"
       },
@@ -337,16 +334,13 @@
     "id": 80002,
     "name": "Polygon Amoy testnet",
     "nativeCurrency": {
-      "symbol": "MATIC",
-      "name": "Amoy MATIC",
+      "symbol": "POL",
+      "name": "Amoy POL",
       "decimals": 18
     },
     "rpcEndpoints": [
       {
-        "url": "https://polygon-amoy-bor-rpc.publicnode.com"
-      },
-      {
-        "url": "https://rpc-amoy.polygon.technology"
+        "url": "https://polygon-amoy.drpc.org"
       }
     ],
     "contracts": {
