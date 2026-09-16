@@ -1,3 +1,7 @@
+# Parcours français
+
+Ce dépôt propose un parcours documentaire en français consacré aux contrats du réseau Streamr, aux ABI TypeChain, aux sous-graphes et aux adresses multichaînes. Voir [le sommaire](docs/fr/README.md).
+
 This is a monorepo containing various smart contracts and subgraphs used by the Streamr Network, as well as potential other Ethereum-related bits and pieces that relate to the Network.
 
 ## Main packages
